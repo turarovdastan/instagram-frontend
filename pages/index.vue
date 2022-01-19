@@ -68,9 +68,9 @@
         <div class="swiper-slide">
           <img src="@/assets/s5.jpg" />
         </div>
-        <div class="swiper-slide">
+        <!-- <div class="swiper-slide">
          <video src="@/assets/miyagi.mp4" controls></video>
-       </div>
+       </div> -->
     </div>
     <!-- If we need pagination -->
     <div class="swiper-pagination"></div>
